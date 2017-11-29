@@ -10,7 +10,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="ricardo.20171129130950.1" a="E"
-expanded="ricardo.20171129131548.3,"><vh>@auto-rst ../source/fases-de-realizacion.rst</vh></v>
+expanded="ricardo.20171129132249.1,"><vh>@auto-rst ../source/fases-de-realizacion.rst</vh></v>
 </vnodes>
 <tnodes>
 </tnodes>

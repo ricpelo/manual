@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.22)  29 NOV 2017 13:06
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.22)  29 NOV 2017 15:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1771,25 +1771,53 @@ Requested font "[LinBiolinum_RB.otf]/OT:script=latn;language=DFLT;mapping=tex-t
 ext;mapping=tex-text;+tnum;" at 17.28pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinBiolinum_R
 B.otf
-[3] [4
-
-]
+Requested font "[LinLibertine_R.otf]/OT:script=latn;language=DFLT;mapping=tex-t
+ext;mapping=tex-text;+tnum;+lnum;" at 10.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_
+R.otf
+Requested font "[LinLibertine_R.otf]/OT:script=latn;language=DFLT;mapping=tex-t
+ext;mapping=tex-text;+tnum;+lnum;" at 7.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_
+R.otf
+Requested font "[LinLibertine_R.otf]/OT:script=latn;language=DFLT;mapping=tex-t
+ext;mapping=tex-text;+tnum;+lnum;" at 5.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_
+R.otf
+Requested font "cmex7" at 7.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+Requested font "cmex7" at 5.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+Requested font "msam10" at 10.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam7" at 7.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+Requested font "msam5" at 5.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+Requested font "msbm10" at 10.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm7" at 7.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+Requested font "msbm5" at 5.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+[3] [4]
 Capítulo 3.
 (./manual.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 116.
-[5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 116.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 152.
+[5
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 152.
 (./manual.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 116.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 116.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 152.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 152.
  ) 
 Here is how much of TeX's memory you used:
- 34716 strings out of 493638
- 654203 string characters out of 6146796
- 577454 words of memory out of 5000000
- 37768 multiletter control sequences out of 15000+600000
- 12479 words of font info for 88 fonts, out of 8000000 for 9000
+ 34733 strings out of 493638
+ 654691 string characters out of 6146796
+ 578454 words of memory out of 5000000
+ 37780 multiletter control sequences out of 15000+600000
+ 14373 words of font info for 99 fonts, out of 8000000 for 9000
  1329 hyphenation exceptions out of 8191
- 48i,11n,105p,10382b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,11n,105p,10382b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on manual.pdf (9 pages).
