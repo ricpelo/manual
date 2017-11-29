@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.22)  29 NOV 2017 12:34
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.22)  29 NOV 2017 13:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1776,18 +1776,18 @@ B.otf
 ]
 Capítulo 3.
 (./manual.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 116.
 [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 116.
 (./manual.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 104.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 104.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 116.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 116.
  ) 
 Here is how much of TeX's memory you used:
- 34713 strings out of 493638
- 654137 string characters out of 6146796
- 575454 words of memory out of 5000000
- 37765 multiletter control sequences out of 15000+600000
+ 34716 strings out of 493638
+ 654203 string characters out of 6146796
+ 577454 words of memory out of 5000000
+ 37768 multiletter control sequences out of 15000+600000
  12479 words of font info for 88 fonts, out of 8000000 for 9000
  1329 hyphenation exceptions out of 8191
  48i,11n,105p,10382b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
